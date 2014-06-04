@@ -30,19 +30,19 @@
     <distributionManagement>
         <repository>
             <id>nexus</id>
-            <url>http://repo.dbmaster.org/nexus/content/repositories/public-maven</url>
+            <url>http://repo.dbmaster.io/nexus/content/repositories/public-maven</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://repo.dbmaster.org/nexus/content/repositories/public-maven</url>
+            <url>http://repo.dbmaster.io/nexus/content/repositories/public-maven</url>
         </snapshotRepository>
     </distributionManagement>
     
     <repositories>
         <repository>
             <id>nexus</id>
-            <url>http://repo.dbmaster.org/nexus/content/groups/public</url>
+            <url>http://repo.dbmaster.io/nexus/content/groups/public</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -55,7 +55,7 @@
     <pluginRepositories>
         <pluginRepository>
             <id>nexus</id>
-            <url>http://repo.dbmaster.org/nexus/content/groups/public</url>
+            <url>http://repo.dbmaster.io/nexus/content/groups/public</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
