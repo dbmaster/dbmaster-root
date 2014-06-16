@@ -12,6 +12,8 @@
     </properties>
 
     <dependencies>
+
+<!--
         <dependency>
             <groupId>org.codehaus.groovy</groupId>
             <artifactId>groovy-all</artifactId>
@@ -25,6 +27,8 @@
             <version>1.7.0</version>
             <scope>provided</scope>
         </dependency>
+-->
+
     </dependencies>
 
     <distributionManagement>
